@@ -1,2 +1,2 @@
 # automatingAWSpython
-Training with Python on AWS
+Repo for learning Python for automating AWS
